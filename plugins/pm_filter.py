@@ -1758,7 +1758,7 @@ async def auto_filter(client, msg, spoll=False):
             search = message.text
             s=await message.reply_sticker("CAACAgIAAxkBAAECtcVktT1nnSIDQxFolMoMZkBb-7BUKwACaAEAAhAabSL1Nxwp9hekbx4E") 
             m=await message.reply_text(f"<b><i> 𝖲𝖾𝖺𝗋𝖼𝗁𝗂𝗇𝗀 𝖿𝗈𝗋 '{search}' 🔎</i></b>")
-            await asyncio.sleep(2)
+            # await asyncio.sleep(2)
             await s.delete()
             search = search.lower()
             find = search.split(" ")
