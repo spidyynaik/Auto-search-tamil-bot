@@ -199,8 +199,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ :</b> <code>{file_name}</code>
-<b>
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : {file_name}
 ════════※ ·❆· ※════════
 ▫️ Cʜᴀɴɴᴇʟ : <a href="https://t.me/YourDemandZone">𝐘𝐃𝐙𝐨𝐧𝐞</a>
 ▫️ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : <a href="https://t.me/YourDemandSupport">𝐘𝐃𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
